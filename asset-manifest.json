@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portoracr/static/css/main.450ab533.css",
+    "main.js": "/portoracr/static/js/main.92543441.js",
+    "static/media/p1.jpg": "/portoracr/static/media/p1.cbdc5e483c7be8162bcb.jpg",
+    "static/media/p3.jpg": "/portoracr/static/media/p3.33f1e140d7370d5d9607.jpg",
+    "static/media/p2.jpg": "/portoracr/static/media/p2.03dd1da2709dceae2a9e.jpg",
+    "static/media/hero.png": "/portoracr/static/media/hero.49be06a8b15ad4ced4fe.png",
+    "static/media/about.jpg": "/portoracr/static/media/about.7612d4707f5d6ee924ab.jpg",
+    "static/media/p4.jpg": "/portoracr/static/media/p4.ffa3e0c77ddc06c9805a.jpg",
+    "static/media/testimonial-2.webp": "/portoracr/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
+    "static/media/p6.jpg": "/portoracr/static/media/p6.f7f62cc47812611a3e68.jpg",
+    "static/media/p5.jpg": "/portoracr/static/media/p5.13f7fd19b9c996ca1777.jpg",
+    "static/media/logo.png": "/portoracr/static/media/logo.817c636abf91fd86d635.png",
+    "static/media/testimonial-3.webp": "/portoracr/static/media/testimonial-3.677360499dd5a97f022a.webp",
+    "static/media/services.svg": "/portoracr/static/media/services.0d43785bd1f41e4d0371.svg",
+    "static/media/portfolio.svg": "/portoracr/static/media/portfolio.bff8b39169bade93c32b.svg",
+    "static/media/testimonial-1.webp": "/portoracr/static/media/testimonial-1.8e05fd5dbc71387931b5.webp",
+    "static/media/about.svg": "/portoracr/static/media/about.192e39ff229e6eb06083.svg",
+    "index.html": "/portoracr/index.html",
+    "main.450ab533.css.map": "/portoracr/static/css/main.450ab533.css.map",
+    "main.92543441.js.map": "/portoracr/static/js/main.92543441.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.450ab533.css",
+    "static/js/main.92543441.js"
+  ]
+}
